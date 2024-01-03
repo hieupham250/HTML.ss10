@@ -21,33 +21,33 @@
     color: white;
 }
 
-.item-1 {
+.item:first-child {
     width: 30%;
 }
 
-.item-2 {
+.item:nth-child(2) {
     width: 100%;
 }
 
-.item-3 {
+.item:nth-child(3) {
     width: 90%;
 }
 
-.item-4 {
+.item:nth-child(4) {
     width: 10%;
 }
 
-.item-5 {
+.item:nth-child(5) {
     width: 50%;
 }
 
-.item-6 {
+.item:nth-child(6) {
     width: 60%;
 }
 
-.item-7 {
+.item:nth-child(7) {
     width: 40%;
 }
-.item-8 {
+.item:last-child {
     width: 80%;
 }
